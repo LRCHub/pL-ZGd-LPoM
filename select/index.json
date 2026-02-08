@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "透明なパレット (selfcover)",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-02-08T06:15:03.008708Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明なパレット",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_透明なパレット_Aqu3ra.txt"
+    }
+  ]
+}
